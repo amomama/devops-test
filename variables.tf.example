@@ -1,0 +1,11 @@
+variable "region" {
+  default = "..."
+}
+
+variable "key-pair" {
+  default = "..."
+}
+
+variable "route53zoneid" {
+  default = "..."
+}
